@@ -1,2 +1,6 @@
-cookies, chocolat
-Quiche,Raclette
+"name","description","rating","done","prep_time"
+"cookies"," chocolat","3.0","true","1h20"
+"Quiche","Raclette","2.0","false","45"
+"Brownie","Chocolat","4.0","true","45"
+"Pizza","Raclette","5.0","true","34"
+"Pain","Raisins","2.0","false","67 min"
